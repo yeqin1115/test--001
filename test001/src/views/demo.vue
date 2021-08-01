@@ -11,7 +11,6 @@
 </el-select>
 <el-button @click="dianji">ddd</el-button> -->
     <el-button @click="dianji">ddd</el-button>
-    1111
   </div>
 </template>
 <script>
